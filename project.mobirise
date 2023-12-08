@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "photographer",
-    "currentPage": "main.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -57,7 +57,7 @@
     "versionPublish": "5.9.8"
   },
   "pages": {
-    "main.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Andrei Cupes - Photographer",
